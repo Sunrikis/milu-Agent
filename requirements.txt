@@ -1,0 +1,4 @@
+anthropic>=0.120,<1
+python-dotenv>=1.2,<2
+PyYAML>=6,<7
+yt-dlp[default]>=2025.11.12
